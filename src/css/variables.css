@@ -1,0 +1,7 @@
+:root {
+    --primary-soft: hsl(215, 51%, 70%);
+    --primary-strong: hsl(178, 100%, 50%);
+    --neutral-main-bg: hsl(217, 54%, 11%);
+    --neutral-card-bg: hsl(216, 50%, 16%);
+    --neutral-line-color: hsl(215, 32%, 27%);
+}
